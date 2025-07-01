@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hyperb1iss-lucidity-mcp-badge.png)](https://mseep.ai/app/hyperb1iss-lucidity-mcp)
+
 # ✨ Lucidity MCP 🔍
 
 <div align="center">
